@@ -36,6 +36,11 @@
       <stop offset="0.65" stop-color="#5CF6E5" stop-opacity="0.75"/>
       <stop offset="1" stop-color="#5CF6E5" stop-opacity="0"/>
     </linearGradient>
+    <clipPath id="quoteClip">
+      <rect x="108" y="258" width="0" height="36" rx="2">
+        <animate attributeName="width" values="0;0;0;620;620;0;0" keyTimes="0;0.08;0.12;0.58;0.78;0.9;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
   <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
@@ -75,35 +80,11 @@
   <g>
     <text x="110" y="220" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="82" font-weight="750" letter-spacing="-2">iennn.dev</text>
     <rect x="114" y="248" width="330" height="3" rx="1.5" fill="url(#plasma)"/>
-    <text x="114" y="285" fill="#FFFFFF" fill-opacity="0.78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="0.4">“Curiosity finds the path; craft gives it form.”</text>
-    <animate attributeName="opacity" values="0.82;1;0.82" dur="7s" repeatCount="indefinite"/>
-  </g>
-
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">
-    <a href="https://github.com/vnsannn" target="_blank" aria-label="GitHub @vnsannn">
-      <rect x="110" y="320" width="164" height="42" rx="21" fill="#B06CFF" fill-opacity="0.92"/>
-      <circle cx="132" cy="341" r="12" fill="#171321"/>
-      <text x="125" y="346" fill="#B06CFF" font-size="11">GH</text>
-      <text x="153" y="346" fill="#171321">@vnsannn</text>
-    </a>
-    <a href="https://t.me/vnsannn" target="_blank" aria-label="Telegram @vnsannn">
-      <rect x="286" y="320" width="164" height="42" rx="21" fill="#5CF6E5" fill-opacity="0.92"/>
-      <circle cx="308" cy="341" r="12" fill="#171321"/>
-      <text x="301" y="346" fill="#5CF6E5" font-size="11">TG</text>
-      <text x="329" y="346" fill="#171321">@vnsannn</text>
-    </a>
-    <a href="https://www.facebook.com/vnsannn" target="_blank" aria-label="Facebook @vnsannn">
-      <rect x="462" y="320" width="164" height="42" rx="21" fill="#FF8FB3" fill-opacity="0.92"/>
-      <circle cx="484" cy="341" r="12" fill="#171321"/>
-      <text x="481" y="347" fill="#FF8FB3" font-family="Arial, sans-serif" font-size="17">f</text>
-      <text x="505" y="346" fill="#171321">@vnsannn</text>
-    </a>
-    <a href="https://x.com/vnsannn" target="_blank" aria-label="X @vnsannn">
-      <rect x="638" y="320" width="164" height="42" rx="21" fill="#FFB86B" fill-opacity="0.92"/>
-      <circle cx="660" cy="341" r="12" fill="#171321"/>
-      <text x="655" y="346" fill="#FFB86B" font-size="13">X</text>
-      <text x="681" y="346" fill="#171321">@vnsannn</text>
-    </a>
+    <text x="114" y="285" fill="#FFFFFF" fill-opacity="0.82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="0.4" clip-path="url(#quoteClip)">“Curiosity finds the path; craft gives it form.”</text>
+    <rect x="114" y="263" width="2" height="27" rx="1" fill="#5CF6E5">
+      <animate attributeName="x" values="114;114;114;734;734;734;114;114" keyTimes="0;0.08;0.12;0.58;0.78;0.86;0.9;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.2;1;1;1;0.2;1;0.2;1;0" keyTimes="0;0.04;0.08;0.12;0.58;0.62;0.66;0.70;0.74;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
   <g transform="translate(1170 92)">
