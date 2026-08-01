@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/candy-plasma.svg" width="100%" alt="Animated candy plasma banner" />
+  <img src="assets/candy-plasma.svg" width="100%" alt="Animated candy plasma banner with iennn.dev" />
 </div>
 
 <br />
@@ -110,7 +110,7 @@ I am interested in the space where technical depth and visual character meet.
 <br />
 
 <div align="center">
-  <b>Vien Calderon</b> · <a href="mailto:viencalderon15@gmail.com">viencalderon15@gmail.com</a>
+  <a href="https://iennn.dev"><b>iennn.dev</b></a> | <a href="mailto:viencalderon15@gmail.com">viencalderon15@gmail.com</a>
 </div>
 
 <!--
