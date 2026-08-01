@@ -27,10 +27,13 @@ I am interested in the space where technical depth and visual character meet.
 
 <div align="center">
   <div style="display: inline-block; border: 1px solid #FF5DB1; border-radius: 16px; padding: 12px; margin: 8px; background: #171321;">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" />
   </div>
   <div style="display: inline-block; border: 1px solid #5CF6E5; border-radius: 16px; padding: 12px; margin: 8px; background: #171321;">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=vnsannn&theme=dark&hide_border=false" alt="GitHub contribution streak" />
+  </div>
+  <div style="display: inline-block; border: 1px solid #B06CFF; border-radius: 16px; padding: 12px; margin: 8px; background: #171321;">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
   </div>
 </div>
 
