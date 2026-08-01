@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="assets/candy-plasma.svg" width="100%" alt="Candy plasma banner" />
-  <br /><br />
-  <samp><b>@vnsannn</b></samp>
-  <br />
-  <sub>iennn.dev</sub>
+  <img src="assets/candy-plasma.svg" width="100%" alt="Animated candy plasma banner" />
 </div>
 
 <br />
@@ -19,8 +15,6 @@
 
 <div align="center">
   <samp><b>“Curiosity finds the path; craft gives it form.”</b></samp>
-  <br />
-  <sub>an original line about building, learning, and making things matter</sub>
 </div>
 
 <br />
@@ -34,6 +28,17 @@ One side is about understanding what is underneath the interface: custom ROMs, p
 I am interested in the space where technical depth and visual character meet.
 
 <br />
+
+## a quiet look at the numbers
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
+</div>
+
+<br />
+
+## routes
 
 <table>
   <tr>
@@ -94,15 +99,6 @@ I am interested in the space where technical depth and visual character meet.
     <img src="https://img.shields.io/badge/PDF.js-FF5DB1?style=for-the-badge&logo=mozilla&logoColor=white" alt="PDF.js" />
     <img src="https://img.shields.io/badge/GitHub-B06CFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
-</div>
-
-<br />
-
-## a quiet look at the numbers
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
 </div>
 
 <br />
