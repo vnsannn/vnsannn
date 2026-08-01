@@ -26,13 +26,10 @@ I am interested in the space where technical depth and visual character meet.
 ## a quiet look at the numbers
 
 <div align="center">
-  <div style="display: inline-block; border: 1px solid #FF5DB1; border-radius: 16px; padding: 12px; margin: 8px; background: #171321;">
-    <img height="165" src="https://github-readme-stats.shion.dev/api?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+  <div style="display: block; border: 1px solid #FF5DB1; border-radius: 16px; padding: 12px; margin: 12px auto; width: fit-content; background: #171321;">
+    <img src="assets/profile-stats.png" width="900" alt="Custom GitHub profile statistics card with profile image" />
   </div>
-  <div style="display: inline-block; border: 1px solid #5CF6E5; border-radius: 16px; padding: 12px; margin: 8px; background: #171321;">
-    <img height="165" src="https://streak-stats.demolab.com/?user=vnsannn&theme=dark&hide_border=false" alt="GitHub contribution streak" />
-  </div>
-  <div style="display: inline-block; border: 1px solid #B06CFF; border-radius: 16px; padding: 12px; margin: 8px; background: #171321;">
+  <div style="display: block; border: 1px solid #B06CFF; border-radius: 16px; padding: 12px; margin: 12px auto; width: fit-content; background: #171321;">
     <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
   </div>
 </div>
@@ -111,7 +108,7 @@ I am interested in the space where technical depth and visual character meet.
 <br />
 
 <div align="center">
-  <a href="https://iennn.dev"><b>iennn.dev</b></a> | <a href="mailto:viencalderon15@gmail.com">viencalderon15@gmail.com</a>
+  iennn.dev | <a href="mailto:viencalderon15@gmail.com">viencalderon15@gmail.com</a>
 </div>
 
 <!--
