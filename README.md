@@ -38,13 +38,13 @@ I am interested in the space where technical depth and visual character meet.
 
 ## routes
 
-### 01 / ROM development
+### 01 / [ROM development](https://github.com/stars/vnsannn/lists/rom-development)
 
 Turning curiosity about Android internals into practical tools and better device experiences.
 
 `custom ROMs` `APatch` `frameworks` `performance`
 
-### 02 / web development
+### 02 / [web development](https://github.com/stars/vnsannn/lists/web-development)
 
 Building expressive interfaces where structure, motion, and personality support the message.
 
