@@ -9,7 +9,7 @@
   <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/-iennn.dev-171321?style=flat-square&logo=telegram&logoColor=171321&labelColor=5cf6e5" alt="Telegram iennn.dev" /></a>
   <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/-Vien%20Calderon%20II-171321?style=flat-square&logo=facebook&logoColor=171321&labelColor=ff8fb3" alt="Facebook Vien Calderon II" /></a>
   <a href="https://x.com/vnsannn"><img src="https://img.shields.io/badge/-Vien%20Calderon-171321?style=flat-square&logo=x&logoColor=171321&labelColor=ffb86b" alt="X Vien Calderon" /></a>
-  <a href="mailto:viencalderon15@gmail.com"><img src="https://img.shields.io/badge/-viencalderon15%40gmail.com-171321?style=flat-square&logo=gmail&logoColor=171321&labelColor=ff5db1" alt="Email viencalderon15@gmail.com" /></a>
+  <a href="mailto:viencalderon15@gmail.com"><img src="https://img.shields.io/badge/-Vien%20Calderon-171321?style=flat-square&logo=gmail&logoColor=171321&labelColor=ff5db1" alt="Email Vien Calderon" /></a>
 </div>
 
 <br />
