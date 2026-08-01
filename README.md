@@ -2,22 +2,6 @@
   <img src="assets/candy-plasma.svg" width="100%" alt="Animated candy plasma banner with iennn.dev" />
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=github&logoColor=171321&labelColor=b06cff" alt="GitHub @vnsannn" /></a>
-  <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=telegram&logoColor=171321&labelColor=5cf6e5" alt="Telegram @vnsannn" /></a>
-  <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=facebook&logoColor=171321&labelColor=ff8fb3" alt="Facebook @vnsannn" /></a>
-  <a href="https://x.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=x&logoColor=171321&labelColor=ffb86b" alt="X @vnsannn" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <samp><b>“Curiosity finds the path; craft gives it form.”</b></samp>
-</div>
-
-<br />
 
 ## a little context
 
@@ -32,8 +16,28 @@ I am interested in the space where technical depth and visual character meet.
 ## a quiet look at the numbers
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
+  <table border="0" cellpadding="0" cellspacing="14">
+    <tr>
+      <td>
+        <table border="1" bordercolor="#FF5DB1" cellpadding="12" cellspacing="0" bgcolor="#171321">
+          <tr>
+            <td align="center">
+              <img height="165" src="https://github-stats-extended.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table border="1" bordercolor="#5CF6E5" cellpadding="12" cellspacing="0" bgcolor="#171321">
+          <tr>
+            <td align="center">
+              <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />

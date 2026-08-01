@@ -1,6 +1,6 @@
 <svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Animated candy plasma GitHub profile banner</title>
-  <desc id="desc">A slow animated candy plasma gradient with pink, violet, cyan, and orange light.</desc>
+  <title id="title">Animated candy plasma GitHub profile header</title>
+  <desc id="desc">An animated candy plasma header showing iennn.dev, a short quote, and links to the GitHub, Telegram, Facebook, and X profiles of vnsannn.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#10091D"/>
@@ -65,42 +65,54 @@
   </g>
 
   <g fill="#FFFFFF">
-    <circle cx="119" cy="100" r="3" fill-opacity="0.85">
-      <animate attributeName="fill-opacity" values="0.85;0.25;0.85" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1480" cy="90" r="3" fill-opacity="0.75">
-      <animate attributeName="fill-opacity" values="0.75;0.2;0.75" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1384" cy="250" r="2" fill-opacity="0.65">
-      <animate attributeName="fill-opacity" values="0.65;0.15;0.65" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1050" cy="90" r="2" fill-opacity="0.6">
-      <animate attributeName="fill-opacity" values="0.6;0.12;0.6" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="474" cy="330" r="2" fill-opacity="0.7">
-      <animate attributeName="fill-opacity" values="0.7;0.16;0.7" dur="5.5s" repeatCount="indefinite"/>
-    </circle>
+    <circle cx="119" cy="100" r="3" fill-opacity="0.85"><animate attributeName="fill-opacity" values="0.85;0.25;0.85" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1480" cy="90" r="3" fill-opacity="0.75"><animate attributeName="fill-opacity" values="0.75;0.2;0.75" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1384" cy="250" r="2" fill-opacity="0.65"><animate attributeName="fill-opacity" values="0.65;0.15;0.65" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="90" r="2" fill-opacity="0.6"><animate attributeName="fill-opacity" values="0.6;0.12;0.6" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="474" cy="330" r="2" fill-opacity="0.7"><animate attributeName="fill-opacity" values="0.7;0.16;0.7" dur="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g>
+    <text x="110" y="220" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="82" font-weight="750" letter-spacing="-2">iennn.dev</text>
+    <rect x="114" y="248" width="330" height="3" rx="1.5" fill="url(#plasma)"/>
+    <text x="114" y="285" fill="#FFFFFF" fill-opacity="0.78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="0.4">“Curiosity finds the path; craft gives it form.”</text>
+    <animate attributeName="opacity" values="0.82;1;0.82" dur="7s" repeatCount="indefinite"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">
+    <a href="https://github.com/vnsannn" target="_blank" aria-label="GitHub @vnsannn">
+      <rect x="110" y="320" width="164" height="42" rx="21" fill="#B06CFF" fill-opacity="0.92"/>
+      <circle cx="132" cy="341" r="12" fill="#171321"/>
+      <text x="125" y="346" fill="#B06CFF" font-size="11">GH</text>
+      <text x="153" y="346" fill="#171321">@vnsannn</text>
+    </a>
+    <a href="https://t.me/vnsannn" target="_blank" aria-label="Telegram @vnsannn">
+      <rect x="286" y="320" width="164" height="42" rx="21" fill="#5CF6E5" fill-opacity="0.92"/>
+      <circle cx="308" cy="341" r="12" fill="#171321"/>
+      <text x="301" y="346" fill="#5CF6E5" font-size="11">TG</text>
+      <text x="329" y="346" fill="#171321">@vnsannn</text>
+    </a>
+    <a href="https://www.facebook.com/vnsannn" target="_blank" aria-label="Facebook @vnsannn">
+      <rect x="462" y="320" width="164" height="42" rx="21" fill="#FF8FB3" fill-opacity="0.92"/>
+      <circle cx="484" cy="341" r="12" fill="#171321"/>
+      <text x="481" y="347" fill="#FF8FB3" font-family="Arial, sans-serif" font-size="17">f</text>
+      <text x="505" y="346" fill="#171321">@vnsannn</text>
+    </a>
+    <a href="https://x.com/vnsannn" target="_blank" aria-label="X @vnsannn">
+      <rect x="638" y="320" width="164" height="42" rx="21" fill="#FFB86B" fill-opacity="0.92"/>
+      <circle cx="660" cy="341" r="12" fill="#171321"/>
+      <text x="655" y="346" fill="#FFB86B" font-size="13">X</text>
+      <text x="681" y="346" fill="#171321">@vnsannn</text>
+    </a>
   </g>
 
   <g transform="translate(1170 92)">
     <g>
       <animateTransform attributeName="transform" type="rotate" values="12 95 95;-8 95 95;12 95 95" dur="20s" repeatCount="indefinite"/>
       <rect width="190" height="190" rx="46" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.18"/>
-      <circle cx="95" cy="95" r="54" stroke="url(#plasma)" stroke-width="5" stroke-dasharray="5 12">
-        <animate attributeName="stroke-dashoffset" values="0;-68;0" dur="9s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="95" cy="95" r="25" fill="url(#plasma)" fill-opacity="0.75">
-        <animate attributeName="r" values="25;31;22;25" dur="8s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="95" cy="95" r="10" fill="#FFFFFF" fill-opacity="0.88">
-        <animate attributeName="fill-opacity" values="0.88;0.45;0.88" dur="6s" repeatCount="indefinite"/>
-      </circle>
+      <circle cx="95" cy="95" r="54" stroke="url(#plasma)" stroke-width="5" stroke-dasharray="5 12"><animate attributeName="stroke-dashoffset" values="0;-68;0" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="95" cy="95" r="25" fill="url(#plasma)" fill-opacity="0.75"><animate attributeName="r" values="25;31;22;25" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="95" cy="95" r="10" fill="#FFFFFF" fill-opacity="0.88"><animate attributeName="fill-opacity" values="0.88;0.45;0.88" dur="6s" repeatCount="indefinite"/></circle>
     </g>
   </g>
-  <g>
-    <text x="110" y="230" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="82" font-weight="750" letter-spacing="-2">iennn.dev</text>
-    <rect x="114" y="258" width="330" height="3" rx="1.5" fill="url(#plasma)"/>
-    <animate attributeName="opacity" values="0.82;1;0.82" dur="7s" repeatCount="indefinite"/>
-  </g>
-
 </svg>
