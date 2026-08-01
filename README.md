@@ -7,7 +7,9 @@
 <div align="center">
   <a href="https://iennn.dev"><img src="https://img.shields.io/badge/website-iennn.dev-171321?style=flat-square&labelColor=ff5db1&color=171321" alt="Website" /></a>
   <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/github-@vnsannn-171321?style=flat-square&labelColor=b06cff&color=171321" alt="GitHub" /></a>
-  <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/telegram-contact-171321?style=flat-square&labelColor=5cf6e5&color=171321" alt="Telegram" /></a>
+  <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/telegram-@vnsannn-171321?style=flat-square&labelColor=5cf6e5&color=171321" alt="Telegram" /></a>
+  <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/facebook-@vnsannn-171321?style=flat-square&labelColor=ff8fb3&color=171321" alt="Facebook" /></a>
+  <a href="https://x.com/vnsannn"><img src="https://img.shields.io/badge/X-@vnsannn-171321?style=flat-square&labelColor=ffb86b&color=171321" alt="X" /></a>
 </div>
 
 <br />
@@ -47,6 +49,31 @@ I am interested in the space where technical depth and visual character meet.
 
 <br />
 
+## shortcuts ⌁
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>websites</h3>
+      <p>
+        <a href="https://iennn.dev">iennn.dev</a><br />
+        <a href="https://vnsannn.github.io/my-portfolio">my portfolio</a><br />
+        <a href="https://github.com/vnsannn">GitHub profile</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>repositories</h3>
+      <p>
+        <a href="https://github.com/vnsannn/my-portfolio">my-portfolio</a><br />
+        <a href="https://github.com/vnsannn/wj-self">wj-self</a><br />
+        <a href="https://github.com/vnsannn/btech-slims">btech-slims</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## selected work ✦
 
 | project | what it is | focus |
@@ -57,10 +84,23 @@ I am interested in the space where technical depth and visual character meet.
 
 <br />
 
-## what I work with
+## languages & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,android,bash&perline=8" alt="HTML, CSS, JavaScript, Git, GitHub, Linux, Android, and Bash" />
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-FF5DB1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS-FF8FB3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-B06CFF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-7C5CFC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-5D8CFF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Bash-5CF6E5?style=for-the-badge&logo=gnubash&logoColor=171321" alt="Bash" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Firebase%20Console-FFB86B?style=for-the-badge&logo=firebase&logoColor=171321" alt="Firebase Console" />
+    <img src="https://img.shields.io/badge/EmailJS-FF6F91?style=for-the-badge&logoColor=white" alt="EmailJS" />
+    <img src="https://img.shields.io/badge/PDF.js-FF5DB1?style=for-the-badge&logo=mozilla&logoColor=white" alt="PDF.js" />
+    <img src="https://img.shields.io/badge/GitHub-B06CFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
 </div>
 
 <br />
@@ -76,10 +116,12 @@ I am interested in the space where technical depth and visual character meet.
 
 <div align="center">
   <sub>open to meaningful ideas, thoughtful collaborations, and projects worth making</sub>
-  <br /><br />
-  <a href="https://iennn.dev"><b>iennn.dev</b></a>
-  <span> · </span>
-  <a href="https://github.com/vnsannn"><b>@vnsannn</b></a>
+</div>
+
+<br />
+
+<div align="center">
+  <b>Vien Calderon</b> · <a href="mailto:viencalderon15@gmail.com">viencalderon15@gmail.com</a>
 </div>
 
 <!--
