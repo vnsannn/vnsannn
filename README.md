@@ -25,10 +25,16 @@ I am interested in the space where technical depth and visual character meet.
 
 ## a quiet look at the numbers
 
-<div align="center">
-  <img width="467" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
-  <img width="467" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=467" alt="Top languages" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="8" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=467" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
