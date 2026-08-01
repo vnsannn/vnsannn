@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="assets/candy-plasma.svg" width="100%" alt="iennn.dev and @vnsannn" />
+  <img src="assets/candy-plasma.svg" width="100%" alt="Candy plasma banner" />
+  <br /><br />
+  <img src="assets/logo-candy.png" width="92" alt="Profile logo" />
+  <br />
+  <samp><b>@vnsannn</b></samp>
+  <br />
+  <sub>iennn.dev</sub>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://iennn.dev"><img src="https://img.shields.io/badge/website-iennn.dev-171321?style=flat-square&labelColor=ff5db1&color=171321" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/devname-iennn.dev-171321?style=flat-square&labelColor=ff5db1&color=171321" alt="Devname iennn.dev" />
   <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/github-@vnsannn-171321?style=flat-square&labelColor=b06cff&color=171321" alt="GitHub" /></a>
   <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/telegram-@vnsannn-171321?style=flat-square&labelColor=5cf6e5&color=171321" alt="Telegram" /></a>
   <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/facebook-@vnsannn-171321?style=flat-square&labelColor=ff8fb3&color=171321" alt="Facebook" /></a>
@@ -56,31 +62,21 @@ I am interested in the space where technical depth and visual character meet.
     <td width="50%" valign="top">
       <h3>websites</h3>
       <p>
-        <a href="https://iennn.dev">iennn.dev</a><br />
         <a href="https://vnsannn.github.io/my-portfolio">my portfolio</a><br />
-        <a href="https://github.com/vnsannn">GitHub profile</a>
+        <a href="https://vnsannn.github.io/btech-slims">btech-slims</a><br />
+        <a href="https://vnsannn.github.io/wj-self">wj-self</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>repositories</h3>
       <p>
         <a href="https://github.com/vnsannn/my-portfolio">my-portfolio</a><br />
-        <a href="https://github.com/vnsannn/wj-self">wj-self</a><br />
-        <a href="https://github.com/vnsannn/btech-slims">btech-slims</a>
+        <a href="https://github.com/vnsannn/btech-slims">btech-slims</a><br />
+        <a href="https://github.com/vnsannn/wj-self">wj-self</a>
       </p>
     </td>
   </tr>
 </table>
-
-<br />
-
-## selected work ✦
-
-| project | what it is | focus |
-| --- | --- | --- |
-| [**wj-self**](https://github.com/vnsannn/wj-self) | An interactive presentation exploring William James's I-self and Me-self theory. | storytelling · interaction |
-| [**my-portfolio**](https://github.com/vnsannn/my-portfolio) | A personal portfolio built around an aspiring developer's visual identity. | frontend · design |
-| [**btech-slims**](https://github.com/vnsannn/btech-slims) | A school library inventory management system made for practical use. | JavaScript · systems |
 
 <br />
 
@@ -108,8 +104,8 @@ I am interested in the space where technical depth and visual character meet.
 ## a quiet look at the numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vnsannn&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=FF5DB1&icon_color=5CF6E5&text_color=94A3B8&custom_title=github%20activity" alt="GitHub activity" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vnsannn&layout=compact&hide_border=true&bg_color=00000000&title_color=B06CFF&text_color=94A3B8&langs_count=6" alt="Top languages" />
 </div>
 
 <br />
