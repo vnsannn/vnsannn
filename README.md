@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/candy-plasma.svg" width="100%" alt="Animated candy plasma banner with iennn.dev" />
+  <img src="assets/candy-plasma.svg" width="100%" alt="Self-contained animated candy plasma header" />
 </div>
 
 <br />
