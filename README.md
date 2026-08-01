@@ -48,7 +48,7 @@ Turning curiosity about Android internals into practical tools and better device
 
 Building expressive interfaces where structure, motion, and personality support the message.
 
-`HTML` `CSS` `JavaScript` `interaction`
+`HTML` `CSS` `JavaScript` `firebase` `emailjs`
 
 <br />
 
