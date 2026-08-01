@@ -1,8 +1,6 @@
 <div align="center">
   <img src="assets/candy-plasma.svg" width="100%" alt="Candy plasma banner" />
   <br /><br />
-  <img src="assets/logo-candy.png" width="92" alt="Profile logo" />
-  <br />
   <samp><b>@vnsannn</b></samp>
   <br />
   <sub>iennn.dev</sub>
@@ -11,11 +9,11 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/devname-iennn.dev-171321?style=flat-square&labelColor=ff5db1&color=171321" alt="Devname iennn.dev" />
-  <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/github-@vnsannn-171321?style=flat-square&labelColor=b06cff&color=171321" alt="GitHub" /></a>
-  <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/telegram-@vnsannn-171321?style=flat-square&labelColor=5cf6e5&color=171321" alt="Telegram" /></a>
-  <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/facebook-@vnsannn-171321?style=flat-square&labelColor=ff8fb3&color=171321" alt="Facebook" /></a>
-  <a href="https://x.com/vnsannn"><img src="https://img.shields.io/badge/X-@vnsannn-171321?style=flat-square&labelColor=ffb86b&color=171321" alt="X" /></a>
+  <img src="assets/iennn-badge.svg" alt="iennn.dev" />
+  <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=github&logoColor=171321&labelColor=b06cff" alt="GitHub @vnsannn" /></a>
+  <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=telegram&logoColor=171321&labelColor=5cf6e5" alt="Telegram @vnsannn" /></a>
+  <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=facebook&logoColor=171321&labelColor=ff8fb3" alt="Facebook @vnsannn" /></a>
+  <a href="https://x.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=x&logoColor=171321&labelColor=ffb86b" alt="X @vnsannn" /></a>
 </div>
 
 <br />
