@@ -1,16 +1,18 @@
-<div align="center">
-  <img src="assets/candy-plasma.svg" width="100%" alt="Self-contained animated candy plasma header" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=iennn.dev&fontSize=64&fontAlignY=35&desc=%40vnsannn&descAlignY=60&fontColor=FFFFFF&color=0:19152f,50:5b3dbb,100:00c2cb&animation=twinkling" width="100%" alt="iennn.dev and @vnsannn" />
+</p>
 
-<br />
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=FF5DB1&center=true&vCenter=true&width=820&height=60&lines=%E2%80%9CCuriosity+finds+the+path%3B+craft+gives+it+form.%E2%80%9D;%E2%80%9CBuild+with+intention%3B+let+the+details+speak.%E2%80%9D;%E2%80%9CEvery+system+has+a+story+beneath+the+surface.%E2%80%9D;aspiring+dev.;android%2Fweb+development;freelancer" alt="Animated quotes and roles" /></a>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/-%7C%20viennn.-171321?style=flat-square&logo=github&logoColor=171321&labelColor=b06cff" alt="GitHub | viennn." /></a>
   <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/-iennn.dev-171321?style=flat-square&logo=telegram&logoColor=171321&labelColor=5cf6e5" alt="Telegram iennn.dev" /></a>
   <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/-Vien%20Calderon%20II-171321?style=flat-square&logo=facebook&logoColor=171321&labelColor=ff8fb3" alt="Facebook Vien Calderon II" /></a>
   <a href="https://x.com/vnsannn"><img src="https://img.shields.io/badge/-Vien%20Calderon-171321?style=flat-square&logo=x&logoColor=171321&labelColor=ffb86b" alt="X Vien Calderon" /></a>
   <a href="mailto:viencalderon15@gmail.com"><img src="https://img.shields.io/badge/-Vien%20Calderon-171321?style=flat-square&logo=gmail&logoColor=171321&labelColor=ff5db1" alt="Email Vien Calderon" /></a>
-</div>
+</p>
 
 <br />
 
@@ -26,76 +28,63 @@ I am interested in the space where technical depth and visual character meet.
 
 ## a quiet look at the numbers
 
-<div align="center">
+<p align="center">
   <img align="top" width="412" height="172" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=gruvbox&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
   &nbsp;&nbsp;
   <img align="top" width="412" height="172" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=gruvbox&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=412" alt="Top languages" />
-</div>
+</p>
 
 <br />
 
 ## routes
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / ROM development</h3>
-      <p>Turning curiosity about Android internals into practical tools and better device experiences.</p>
-      <p><code>custom ROMs</code> <code>APatch</code> <code>frameworks</code> <code>performance</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / web development</h3>
-      <p>Building expressive interfaces where structure, motion, and personality support the message.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>interaction</code></p>
-    </td>
-  </tr>
-</table>
+### 01 / ROM development
+
+Turning curiosity about Android internals into practical tools and better device experiences.
+
+`custom ROMs` `APatch` `frameworks` `performance`
+
+### 02 / web development
+
+Building expressive interfaces where structure, motion, and personality support the message.
+
+`HTML` `CSS` `JavaScript` `interaction`
 
 <br />
 
 ## shortcuts ⌁
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>websites</h3>
-      <p>
-        <a href="https://vnsannn.github.io/my-portfolio">my portfolio</a><br />
-        <a href="https://vnsannn.github.io/btech-slims">btech-slims</a><br />
-        <a href="https://vnsannn.github.io/wj-self">wj-self</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>repositories</h3>
-      <p>
-        <a href="https://github.com/vnsannn/my-portfolio">my-portfolio</a><br />
-        <a href="https://github.com/vnsannn/btech-slims">btech-slims</a><br />
-        <a href="https://github.com/vnsannn/wj-self">wj-self</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### websites
+
+- [my portfolio](https://vnsannn.github.io/my-portfolio)
+- [btech-slims](https://vnsannn.github.io/btech-slims)
+- [wj-self](https://vnsannn.github.io/wj-self)
+
+### repositories
+
+- [my-portfolio](https://github.com/vnsannn/my-portfolio)
+- [btech-slims](https://github.com/vnsannn/btech-slims)
+- [wj-self](https://github.com/vnsannn/wj-self)
 
 <br />
 
 ## languages & tools
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-FF5DB1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS-FF8FB3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-B06CFF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-7C5CFC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-5D8CFF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Bash-5CF6E5?style=for-the-badge&logo=gnubash&logoColor=171321" alt="Bash" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Firebase%20Console-FFB86B?style=for-the-badge&logo=firebase&logoColor=171321" alt="Firebase Console" />
-    <img src="https://img.shields.io/badge/EmailJS-FF6F91?style=for-the-badge&logoColor=white" alt="EmailJS" />
-    <img src="https://img.shields.io/badge/PDF.js-FF5DB1?style=for-the-badge&logo=mozilla&logoColor=white" alt="PDF.js" />
-    <img src="https://img.shields.io/badge/GitHub-B06CFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FF5DB1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-FF8FB3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-B06CFF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-7C5CFC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-5D8CFF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Bash-5CF6E5?style=for-the-badge&logo=gnubash&logoColor=171321" alt="Bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase%20Console-FFB86B?style=for-the-badge&logo=firebase&logoColor=171321" alt="Firebase Console" />
+  <img src="https://img.shields.io/badge/EmailJS-FF6F91?style=for-the-badge&logoColor=white" alt="EmailJS" />
+  <img src="https://img.shields.io/badge/PDF.js-FF5DB1?style=for-the-badge&logo=mozilla&logoColor=white" alt="PDF.js" />
+  <img src="https://img.shields.io/badge/GitHub-B06CFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 <br />
 
@@ -108,9 +97,3 @@ I am interested in the space where technical depth and visual character meet.
 <div align="center">
   iennn.dev | <a href="mailto:viencalderon15@gmail.com">viencalderon15@gmail.com</a>
 </div>
-
-<!--
-  Identity: iennn.dev / @vnsannn
-  Style: candy plasma, clean, playful-professional
-  Quote: original philosophical developer line
--->
