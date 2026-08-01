@@ -26,8 +26,8 @@ I am interested in the space where technical depth and visual character meet.
 ## a quiet look at the numbers
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 8px; width: 100%;">
-  <img width="467" height="195" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
-  <img width="467" height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=467" alt="Top languages" />
+  <img style="flex: 1 1 0; min-width: 0; width: calc(50% - 4px); height: 195px;" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
+  <img style="flex: 1 1 0; min-width: 0; width: calc(50% - 4px); height: 195px;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=467" alt="Top languages" />
 </div>
 
 <br />
