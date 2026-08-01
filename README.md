@@ -26,12 +26,25 @@ I am interested in the space where technical depth and visual character meet.
 ## a quiet look at the numbers
 
 <div align="center">
-  <div style="display: block; border: 1px solid #FF5DB1; border-radius: 16px; padding: 12px; margin: 12px auto; width: fit-content; background: #171321;">
-    <img height="165" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
-  </div>
-  <div style="display: block; border: 1px solid #B06CFF; border-radius: 16px; padding: 12px; margin: 12px auto; width: fit-content; background: #171321;">
-    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-  </div>
+  <table border="1" bordercolor="#FF5DB1" cellpadding="12" cellspacing="0" bgcolor="#171321">
+    <tr>
+      <td align="center">
+        <img height="165" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <table border="1" bordercolor="#B06CFF" cellpadding="12" cellspacing="0" bgcolor="#171321">
+    <tr>
+      <td align="center">
+        <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
