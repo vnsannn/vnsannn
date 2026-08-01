@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=iennn.dev&fontSize=64&fontAlignY=35&desc=%40vnsannn&descAlignY=60&fontColor=FFFFFF&color=0:19152f,50:5b3dbb,100:00c2cb&animation=twinkling" width="100%" alt="iennn.dev and @vnsannn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=iennn.dev&fontSize=64&fontAlignY=35&desc=aspiring+dev.+%7C+android%2Fweb+development+%7C+freelancer&descAlignY=60&fontColor=FFFFFF&color=0:19152f,50:5b3dbb,100:00c2cb&animation=twinkling" width="100%" alt="iennn.dev - aspiring dev, android/web development, freelancer" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=FF5DB1&center=true&vCenter=true&width=820&height=70&lines=%E2%80%9CCuriosity+finds+the+path.+Craft+gives+it+form.%E2%80%9D;%E2%80%9CBuild+with+intention.+Let+the+details+speak.%E2%80%9D;%E2%80%9CEvery+system+has+a+story+beneath+the+surface.%E2%80%9D;aspiring+dev.;android%2Fweb+development;freelancer" alt="Animated quotes and roles" /></a>
+  <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=FF5DB1&center=true&vCenter=true&width=820&height=70&lines=%E2%80%9CCuriosity+finds+the+path.+Craft+gives+it+form.%E2%80%9D;%E2%80%9CBuild+with+intention.+Let+the+details+speak.%E2%80%9D;%E2%80%9CEvery+system+has+a+story+beneath+the+surface.%E2%80%9D" alt="Animated quotes" /></a>
 </p>
 
 <p align="center">
