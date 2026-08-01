@@ -9,7 +9,6 @@
 <br />
 
 <div align="center">
-  <img src="assets/iennn-badge.svg" alt="iennn.dev" />
   <a href="https://github.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=github&logoColor=171321&labelColor=b06cff" alt="GitHub @vnsannn" /></a>
   <a href="https://t.me/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=telegram&logoColor=171321&labelColor=5cf6e5" alt="Telegram @vnsannn" /></a>
   <a href="https://www.facebook.com/vnsannn"><img src="https://img.shields.io/badge/-@vnsannn-171321?style=flat-square&logo=facebook&logoColor=171321&labelColor=ff8fb3" alt="Facebook @vnsannn" /></a>
