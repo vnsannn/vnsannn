@@ -27,7 +27,7 @@ I am interested in the space where technical depth and visual character meet.
 
 <div align="center">
   <div style="display: block; border: 1px solid #FF5DB1; border-radius: 16px; padding: 12px; margin: 12px auto; width: fit-content; background: #171321;">
-    <img src="assets/profile-stats.png" width="900" alt="Custom GitHub profile statistics card with profile image" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" />
   </div>
   <div style="display: block; border: 1px solid #B06CFF; border-radius: 16px; padding: 12px; margin: 12px auto; width: fit-content; background: #171321;">
     <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
