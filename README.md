@@ -42,7 +42,7 @@ I am interested in the space where technical depth and visual character meet.
 
 Turning curiosity about Android internals into practical tools and better device experiences.
 
-`custom ROMs` `APatch` `frameworks` `performance`
+`custom ROMs` `root modules` `frameworks` `binaries`
 
 ### 02 / [web development](https://github.com/stars/vnsannn/lists/web-development)
 
@@ -54,17 +54,17 @@ Building expressive interfaces where structure, motion, and personality support 
 
 ## shortcuts ⌁
 
-### websites
-
-- [my portfolio](https://vnsannn.github.io/my-portfolio)
-- [btech-slims](https://vnsannn.github.io/btech-slims)
-- [wj-self](https://vnsannn.github.io/wj-self)
-
-### repositories
-
-- [my-portfolio](https://github.com/vnsannn/my-portfolio)
-- [btech-slims](https://github.com/vnsannn/btech-slims)
-- [wj-self](https://github.com/vnsannn/wj-self)
+<pre>
+<b>vnsannn</b>
+├── <b>sites/</b>
+│   ├── <a href="https://vnsannn.github.io/my-portfolio">iennn.dev portfolio</a>
+│   ├── <a href="https://vnsannn.github.io/btech-slims">Student Library Inventory Management System</a>
+│   └── <a href="https://vnsannn.github.io/wj-self">William James | The I-self and the Me-self</a>
+└── <b>repo/</b>
+    ├── <a href="https://github.com/vnsannn/my-portfolio">my-portfolio</a>
+    ├── <a href="https://github.com/vnsannn/btech-slims">btech-slims</a>
+    └── <a href="https://github.com/vnsannn/wj-self">wj-self</a>
+</pre>
 
 <br />
 
