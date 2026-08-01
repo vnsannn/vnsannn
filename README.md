@@ -27,9 +27,9 @@ I am interested in the space where technical depth and visual character meet.
 ## a quiet look at the numbers
 
 <div align="center">
-  <img align="top" width="412" height="172" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=dark&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
+  <img align="top" width="412" height="172" src="https://github-readme-stats.shion.dev/api?username=vnsannn&show_icons=true&rank_icon=github&theme=gruvbox&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics with GitHub logo" />
   &nbsp;&nbsp;
-  <img align="top" width="412" height="172" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=dark&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=412" alt="Top languages" />
+  <img align="top" width="412" height="172" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vnsannn&theme=gruvbox&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=412" alt="Top languages" />
 </div>
 
 <br />
