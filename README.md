@@ -65,6 +65,7 @@ Building expressive interfaces where structure, motion, and personality support 
        ├── 📕 <a style="text-decoration:none" href="https://github.com/vnsannn/my-portfolio">my-portfolio</a>
        ├── 📕 <a style="text-decoration:none" href="https://github.com/vnsannn/btech-slims">btech-slims</a>
        ├── 📕 <a style="text-decoration:none" href="https://github.com/vnsannn/wj-self">wj-self</a>
+       ├── 📕 <a style="text-decoration:none" href="https://github.com/vnsannn/apple-project">apple-project</a>
        └── 📕 <a style="text-decoration:none" href="https://github.com/vnsannn/UNISOC-Color-Transform-Workaround">UNISOC-Color-Transform-Workaround</a> 🔒
 </pre>
 
